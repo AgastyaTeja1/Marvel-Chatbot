@@ -1,4 +1,4 @@
-# Marvel Chatbot
+![Screenshot 2025-04-21 162108](https://github.com/user-attachments/assets/96e2364e-c0b5-4129-a14d-5116cc49dd1d)# Marvel Chatbot
 
 An interactive web application that allows users to chat with Marvel superheroes using AI. The application features user authentication, animated hero selection, and realistic hero-specific conversations powered by OpenAI's GPT models.
 
@@ -121,7 +121,8 @@ Then deploy the contents of the `dist` directory to Netlify, Vercel, or any stat
 
 ## Screenshots
 
-*[Add screenshots of your app here]*
+![Screenshot 2025-04-21 162108](https://github.com/user-attachments/assets/ca86d391-403e-420a-80cd-187c75b9fcb1)
+
 
 ## License
 
