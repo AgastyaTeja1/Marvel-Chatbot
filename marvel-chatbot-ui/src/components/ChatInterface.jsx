@@ -201,7 +201,7 @@ export default function ChatInterface() {
     }
     
     try {
-      const response = await fetch('http://localhost:8000/api/chat', {
+      const response = await fetch('https://marvel-chatbot-pswd.onrender.com/api/chat', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

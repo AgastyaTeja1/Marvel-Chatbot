@@ -30,7 +30,7 @@ export default function LoginPage() {
         ? JSON.stringify({ email, password }) 
         : JSON.stringify({ email, password, username });
 
-      const response = await fetch(`http://localhost:8000${endpoint}`, {
+      const response = await fetch(`https://marvel-chatbot-pswd.onrender.com${endpoint}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body
