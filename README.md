@@ -2,6 +2,9 @@
 
 An interactive web application that allows users to chat with Marvel superheroes using AI. The application features user authentication, animated hero selection, and realistic hero-specific conversations powered by OpenAI's GPT models.
 
+## Link to access
+https://marvel-chatbot.vercel.app/login
+
 ## Features
 
 - **User Authentication**: Sign up and login functionality with JWT token-based security
